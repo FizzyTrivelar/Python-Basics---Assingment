@@ -1,2 +1,2 @@
-# Python-Basics---Assingment
-Assingment
+# Python-Basics---Assignment
+Assignment
